@@ -1,0 +1,13 @@
+{
+  "name": "George Droid",
+  "symbol": "GDROID",
+  "description": "Can't Compute.",
+  "image": 
+"https://pbs.twimg.com/profile_images/1780433402702757889/cnrIILH8_400x400.jpg",
+  "attributes": [
+    {
+      "trait_type": "Generation",
+      "value": "1"
+    }
+  ]
+
